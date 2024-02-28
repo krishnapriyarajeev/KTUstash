@@ -1,1 +1,2 @@
 # KTUstash
+Welcome to Project KTUstash! We aim to streamline the learning experience for KTU students by addressing common challenges in accessing study materials. Say goodbye to the tedious task of downloading from multiple sites and organizing files manually. Our solution simplifies the process, making learning more efficient and enjoyable for the KTU community. Join us in revolutionizing the way students interact with study materials!
